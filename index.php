@@ -1,7 +1,7 @@
 <?php
-define('API_KEY', 'yegs7brnmnmqb72d41s7kc5m');	
+define('API_KEY', 'Enter Here');	
 define('STORENAME', 'naturalbeautyjewelry');
-define('STOREID', '5259053');
+define('STOREID', 'Add Store ID');
 $ETSY_FILE_NAME = 'etsy-listings.txt';
 $ETSY_LISTINGS_URL = "https://openapi.etsy.com/v2/shops/". STOREID . "/listings/active?includes=MainImage&category_path=Cuff&api_key=" . API_KEY;
 
