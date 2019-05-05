@@ -1,7 +1,7 @@
 <?php
-define('API_KEY', 'yegs7brnmnmqb72d41s7kc5m');	
+define('API_KEY', 'Enter Here');	
 define('STORENAME', 'naturalbeautyjewelry');
-define('STOREID', '5259053');
+define('STOREID', 'Add Store ID');
 
 // REQUEST
 // Make sure you define API_KEY to be your unique, registered key
